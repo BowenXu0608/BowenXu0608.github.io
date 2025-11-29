@@ -78,6 +78,7 @@ Lift gamma gain can change the brightness of the screen. Due to the difference o
 Next one is shadows, midtones and Highlights. Usually we increase the shadows to enlarge the dynamic range, and reduce the highlights to aviod overexposure. In terms of midtones, change it depends on your personal preference. You can also change the hue rings to change the color of shadow, midtones or highlight.
 
 The last one is the depth of field. We can choose the boking mode directly. The most important attribute is aperture, lower aperture will make the background blurry, higher aperture will make the background clear. Focal length should be set as the same as the focus length of the camera, and we need to close to the target object otherwise anything in the scene will be blurry. Additionally, the effect of it will be unconspicuous when you are using a wide angle shot. If you want to shot the face of the people, you can set the focus length to 85mm, in this satuation you will see an obvious blurring effect, like this:
+
 ![2025.11.29-11](images/2025.11.29-11.png)
 
 In this class, we have learned the elements of visual style and some post processing techniques in the unity.
