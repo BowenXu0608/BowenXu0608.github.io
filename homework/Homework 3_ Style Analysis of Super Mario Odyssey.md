@@ -8,7 +8,7 @@ title: 'Homework 3: Style Analysis of Super Mario Odyssey'
 Super Mario Odyssey is one of the most successful games on Nintendo Switch. Today, I will try to analyze the color style of this game.
 
 Let's see an indoor scene first. 
-![v2-32a04461491f67472aef1719aa04dd3b_r](images/20251129-1.jdg)
+![v2-32a04461491f67472aef1719aa04dd3b_r](images/20251129-1.jpg)
 
 This picture shows the inside scene of the Odyssey. First of all, if we use the color model (HSV) to describe this scene, we can make sure that this game uses various colors in the hue. For example, the guide is yellow, the frog is green, the coconut tree is green, dark blue, and brown, and Cappy is white. Moreover, most colors have high saturation, which means these colors do not turn white, except for the objects that are close to the window, because the outside is hard light. For the aspect of value, we can draw a conclusion easily: the value of this scene is high, but the value difference is not very big; in other words, the dynamic range of this game is narrow. For example, the darkest place in this scene may be the shadow of the chair. Compared it with the brightest place -- the outside of the window, we can see that the brightness difference between them is not very huge. And there are not many details in the dark place, which is the most direct evidence that proves that the dynamic range is narrow. The last important criterion is the model complexity. In this scene, it is clear to observe the smooth curves of the objects, such as the sofa, the frog, and the dinosaur sculpture. As a result, the model complexity is high.
 
